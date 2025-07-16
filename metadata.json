@@ -1,0 +1,5 @@
+{
+  "name": "Cybersecurity SOAR Showcase",
+  "description": "An interactive web application showcasing a graduation project on a custom SOAR (Security Orchestration, Automation, and Response) system integrated with Splunk, Wazuh, and Google Gemini for automated threat analysis and response.",
+  "requestFramePermissions": []
+}
